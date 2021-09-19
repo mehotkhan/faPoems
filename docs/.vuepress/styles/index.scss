@@ -57,3 +57,24 @@ html.dark {
   --c-brand: #fc9;
   --c-brand-light: #fdc084;
 }
+
+.fa-poems {
+  margin-top: 4rem;
+  display: flex;
+  display: flex;
+  flex-wrap: wrap;
+ 
+}
+.fa-poems p{
+  flex: 50%;
+  margin-bottom: 10px;
+  // width: 300px; float: left;
+}
+.navbar-links .navbar-links-item {
+  margin-left: unset;
+  margin-right: 1.5rem;
+}
+.toggle-dark-button {
+  margin-left: unset;
+  margin-right: 1rem;
+}
