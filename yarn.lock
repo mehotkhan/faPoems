@@ -1610,6 +1610,9 @@ extend-shallow@^2.0.1:
   dependencies:
     is-extendable "^0.1.0"
 
+"fapoems-markdown@file:../faPoems-markdown":
+  version "0.2.2"
+
 fast-deep-equal@^3.1.1:
   version "3.1.3"
   resolved "https://registry.yarnpkg.com/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz#3a7d56b559d6cbc3eb512325244e619a65c6c525"
